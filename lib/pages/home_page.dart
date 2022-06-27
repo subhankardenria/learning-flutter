@@ -7,6 +7,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      // scaffold is like skeleton or structure of human body it apbar body drawer and all
       appBar: AppBar(
         title: const Text("Catalog App"),
       ),
